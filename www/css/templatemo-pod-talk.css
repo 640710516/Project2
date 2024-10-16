@@ -169,7 +169,7 @@ strong {
 }
 
 .section-padding {
-  padding-top: 100px;
+  padding-top: 130px;
   padding-bottom: 100px;
 }
 
@@ -457,7 +457,7 @@ main {
   right: 0;
   left: 0;
   background: var(--white-color);
-  width: 30px;
+  width: 65px;
   height: 2px;
   content: '';
 }
@@ -481,7 +481,9 @@ main {
   background-position: top;
   padding-top: 200px;
 }
-
+.bg-color {
+  background-color: rgb(86, 102, 101);
+}
 .owl-carousel {
   text-align: center;
 }
