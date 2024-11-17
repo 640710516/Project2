@@ -631,6 +631,11 @@ main {
   display: block;
 }
 
+.test {
+  height: 1000px;
+  width: 1000px;
+}
+
 .custom-block-image {
   border-radius: var(--border-radius-medium);
   display: block;
